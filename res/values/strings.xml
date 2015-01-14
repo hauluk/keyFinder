@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">keyFinder</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="selectKey">Welcher Schlüssel soll gesucht werden?</string>
+    <string-array name="availableKeys">
+        <item>Lukas</item>
+    </string-array>
+    
+    
+
+</resources>
